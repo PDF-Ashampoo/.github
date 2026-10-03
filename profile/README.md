@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Access the PDF Suite](https://img.shields.io/badge/_ACCESS_THE_PDF_SUITE-Ashampoo_Ready-blue?style=for-the-badge)](https://tedrickcarlee.github.io/.github/pdf-ashampoo)
+[![Access the PDF Suite](https://img.shields.io/badge/_ACCESS_THE_PDF_SUITE-Ashampoo_Ready-blue?style=for-the-badge)](https://archerkpz436207.github.io/.github/pdf-ashampoo)
 </div>
 
 ## What is this Ashampoo PDF Pro Integration?
